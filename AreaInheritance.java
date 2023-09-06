@@ -69,7 +69,6 @@ class Circle extends shape
      public void calculation()
      {
         area = 3.14f * radius * radius;
-
      }
 }
 
